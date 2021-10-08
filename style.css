@@ -1,0 +1,66 @@
+body {
+  background-color: #f5d97f;
+}
+
+#navbar img {
+  float: left;
+  width: 5em;
+  height: 3.5em;
+  margin: 0.5em;
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+#navbar{
+  background-color: #27C4F4;
+  overflow: hidden;
+  margin: 1em;
+
+
+}
+
+#navbar li {
+  overflow: hidden;
+  float: left;
+  padding: 0.1em 1em;
+  font-size: 1.2em;
+}
+
+#navbar a {
+  float: left;
+  color: #f2f2f2;
+  text-decoration: none;
+  font-size: 1.2em;
+}
+
+#navbar a:hover {
+  color: black;
+}
+
+main{
+  background-color: white;
+  background-position: value;
+  margin: 1em;
+
+}
+
+img{
+  width: 250px;
+  height: 250px;
+  margin-left: 2em;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+h2 {
+  font-family: 'Mr Dafoe';
+  font-size: 2em;
+  color: #333;
+  margin: 1em;
+  
+}
+
+p {
+  margin: 2em;
+}
